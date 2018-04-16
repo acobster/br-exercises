@@ -1,1 +1,0 @@
-("6.8" ("6849857a3d96867e9f896e6b43c0f10e9fbf3f4b" . "1a96409a91ebfaedd550b80d1b10e4e4d001ec1d") (collects #"bf-demo" #"expander.rkt") (collects #"bf-demo" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
