@@ -1,8 +1,9 @@
 #lang jsonic
 [
   @$ 'null $@,
-     // a comment
-     null,
+  // a comment
+  null,
+  @$ (symbol->string '$@) $@,
   @$ (= 2 (+ 1 1)) $@,
   @$ (list "array" "of" "strings") $@,
   @$ (hash 'key-1 'null
